@@ -30,7 +30,7 @@
     "mobx": "^5.9.0",
     "mobx-react": "^5.4.3",
     "mobx-react-devtools": "^6.1.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "sass-loader": "^8.0.0",
